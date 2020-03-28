@@ -2,4 +2,4 @@
 /workspace.xml
 target
 .idea
-Cargo.toml
+Cargo.lock
